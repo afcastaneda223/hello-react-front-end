@@ -19,7 +19,7 @@ In this project I developed a simple app that consumes a hello_world_API to disp
 
 ### Screenshots
 
-  ![screenshot]() 
+  ![screenshot](./public/hello2.png) 
 
 
 ### Installation
